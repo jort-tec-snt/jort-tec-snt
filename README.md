@@ -7,35 +7,38 @@
   />
 </p>
 
----
-
 <p align="center">
   5th-cycle <b>Software Design and Development</b> student at <b>TECSUP</b><br>
-  Backend development • Cloud infrastructure • DevOps • Cybersecurity
+  Backend Development • Cloud Infrastructure • DevOps • Cybersecurity
 </p>
 
----
+<p align="center">
+  📍 Lima, Peru
+</p>
 
-My main interests are **backend development, cloud infrastructure, DevOps, software architecture and cybersecurity**.
-
-Throughout my studies and collaborative projects, I've worked with different technologies and architectures, building web applications, REST APIs, mobile applications, microservices, database-driven systems and containerized development environments.
-
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
 ## 👨‍💻 About Me
 
-- 🎓 5th-cycle Software Design and Development student at **TECSUP**
+I'm currently building my professional foundation in **software engineering**, with a strong interest in backend development, cloud infrastructure, DevOps, software architecture and cybersecurity.
+
+Throughout my studies and collaborative projects, I've worked with different technologies and architectures, developing web applications, REST APIs, mobile applications, microservices, database-driven systems and containerized environments.
+
+- 🎓 5th-cycle **Software Design and Development** student at **TECSUP**
 - ⚙️ Focused on **Backend Development, Cloud and DevOps**
 - 🔐 Interested in **Cybersecurity and Secure Software Design**
 - 🐳 Building and testing applications with **Docker and Docker Compose**
 - ☁️ Exploring cloud infrastructure and deployment with **AWS**
-- 🧩 Interested in software architecture, APIs and distributed systems
-- 🤝 Experience collaborating on academic and development projects
-- 📍 Lima, Peru
+- 🧩 Interested in **software architecture, APIs and distributed systems**
+- 🤝 Experience collaborating on academic and software development projects
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 ### Backend
 
@@ -65,7 +68,7 @@ Throughout my studies and collaborative projects, I've worked with different tec
 
 [![Cloud & DevOps](https://skillicons.dev/icons?i=docker,aws,githubactions,jenkins,nginx,redis&theme=dark)](https://skillicons.dev)
 
-**Docker · AWS · GitHub Actions · Jenkins · Nginx · Redis**
+**Docker · Docker Compose · AWS · GitHub Actions · Jenkins · Nginx · Redis**
 
 ### Development Tools & Environment
 
@@ -73,11 +76,13 @@ Throughout my studies and collaborative projects, I've worked with different tec
 
 **Git · GitHub · Linux · Fedora · macOS · Bash · Zsh**
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
 ## 🚀 What I've Been Working On
 
-### Backend & API Development
+### ⚙️ Backend & API Development
 
 I've developed backend applications using **Node.js, Express and Laravel**, working with:
 
@@ -90,31 +95,24 @@ I've developed backend applications using **Node.js, Express and Laravel**, work
 - MVC architecture
 - Validation and error handling
 
----
-
 ### ☁️ Cloud & DevOps
 
-I've worked with containerized and cloud-oriented development environments using:
+I've worked with containerized and cloud-oriented development environments involving:
 
-- Docker
-- Docker Compose
+- Docker and Docker Compose
 - Nginx
-- PostgreSQL
-- MySQL
+- PostgreSQL and MySQL
 - Redis
 - CI/CD pipelines
 - AWS services
 - Application health checks
+- Development and deployment environments
 
-I'm particularly interested in understanding how applications move from local development to reliable deployment environments.
-
----
+I'm particularly interested in understanding how applications evolve from local development environments into reliable and maintainable deployment architectures.
 
 ### 🗄️ Database Development
 
-I've built applications using both relational and non-relational databases.
-
-Technologies I've worked with include:
+I've worked with both relational and non-relational databases using technologies and patterns such as:
 
 - PostgreSQL
 - MySQL
@@ -122,8 +120,8 @@ Technologies I've worked with include:
 - Prisma
 - Mongoose
 - ORM / ODM patterns
-
----
+- Data modeling
+- Database integration
 
 ### 📱 Mobile Development
 
@@ -135,11 +133,13 @@ I've developed mobile applications and interfaces using:
 
 My work has included responsive interfaces, application logic, navigation and automated testing.
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
-## 🤝 Collaborative Projects
+## 🤝 Collaborative Experience
 
-During my studies, I've participated in team projects involving:
+During my studies, I've participated in collaborative projects involving:
 
 - IoT systems
 - Web applications
@@ -150,30 +150,39 @@ During my studies, I've participated in team projects involving:
 - Database systems
 - Software design and documentation
 
-These projects have helped me improve not only my technical skills, but also collaboration, version control and project organization.
+These experiences have helped me strengthen not only my technical skills, but also my knowledge of **Git workflows, version control, teamwork, documentation and project organization**.
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
 ## 🔒 Private & Ongoing Work
 
-Some of the projects I currently work on are private or part of academic and professional work, so their repositories and implementation details are not publicly available.
+Some projects I'm currently involved in are **private, academic or professional**, so their repositories and implementation details are not publicly available.
 
-They include experience with:
+These projects have given me practical experience with:
 
 - B2B e-commerce development
 - Backend architecture
 - Administration systems
 - Authentication and authorization
 - Docker-based environments
-- CI/CD
+- CI/CD workflows
 - Cloud deployment planning
 - Security-oriented software design
 
-One of these projects is also being developed as part of my academic thesis.
+One of these ongoing projects is also being developed as part of my **academic thesis**.
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
-## 🧠 Areas I'm Currently Exploring
+## 🧠 Currently Exploring
+
+<details>
+<summary><b>⚡ Technologies and areas I'm currently strengthening</b></summary>
+
+<br>
 
 - Backend Architecture
 - Cloud Computing
@@ -185,32 +194,52 @@ One of these projects is also being developed as part of my academic thesis.
 - AWS Infrastructure
 - Microservices
 - Infrastructure Automation
+- Distributed Systems
 
----
+</details>
+
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
 ## 🎯 My Goal
 
-I'm currently building a strong foundation in software engineering while gaining practical experience designing and developing systems that are:
+I'm building a strong foundation in software engineering while gaining practical experience designing and developing systems that are:
 
-**Secure · Maintainable · Scalable · Testable · Deployable**
+<p align="center">
+  <b>Secure • Maintainable • Scalable • Testable • Deployable</b>
+</p>
 
----
+My goal is to keep developing the technical judgment needed not only to write code, but also to understand **architecture, infrastructure, security and the complete software lifecycle**.
 
-## 📚 My GitHub
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
-This profile contains a combination of:
+## 📚 About This GitHub
 
-- Academic projects
-- Collaborative projects
-- Technical experiments
-- Backend applications
-- Cloud and DevOps labs
-- Mobile development projects
+This profile documents my evolution as a software development student and contains a combination of:
 
-Some repositories represent individual exercises, while others document larger development processes and collaborative work.
+- 🎓 Academic projects
+- 🤝 Collaborative projects
+- 🧪 Technical experiments
+- ⚙️ Backend applications
+- ☁️ Cloud and DevOps labs
+- 📱 Mobile development projects
+- 🗄️ Database-oriented applications
 
----
+Some repositories represent individual exercises and laboratory work, while others document larger development processes and collaborative projects.
 
-### Thanks for visiting 👋
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
-I'm continuously learning, building and improving as a software developer.
+<h3 align="center">Thanks for visiting 👋</h3>
+
+<p align="center">
+  I'm continuously learning, building and improving as a software developer.
+</p>
+
+<p align="center">
+  <code>Learn → Build → Test → Improve → Repeat</code>
+</p>
