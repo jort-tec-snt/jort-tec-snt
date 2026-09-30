@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="OrtizDev Header">
+  <img src="./assets/header.svg" width="100%" alt="OrtizDev">
 </p>
 
 <p align="center">
@@ -15,254 +15,46 @@
 
 <p align="center">
   <b>5th-cycle Software Design and Development student at TECSUP</b><br>
-  Lima, Peru 🇵🇪
+  Backend • Cloud • DevOps • Cybersecurity
+</p>
+
+---
+
+## `> [Core.Stack]`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,docker,aws,postgres,mysql,mongodb,flutter,git,linux&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+  <b>Laravel · Node.js · React · Docker · AWS · PostgreSQL · MongoDB · Flutter</b>
 </p>
 
-## `> [System.Bio]`
+---
 
-- 🎓 **Education:** TECSUP · Software Design and Development · 5th Cycle
-- ⚙️ **Focus:** Backend · Cloud · DevOps
-- 🔐 **Security:** Secure Software Design · Authentication · Authorization
-- 🧩 **Architecture:** REST APIs · Microservices · Distributed Systems
-- ☁️ **Infrastructure:** Docker · CI/CD · AWS
-- 🐧 **Environment:** Fedora Linux · macOS
+## `> [Focus]`
 
 <p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+  Backend Engineering • REST APIs • Cloud Infrastructure • CI/CD • Secure Software
 </p>
 
-## `> [Environment.Stack]`
+---
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" />
-
-<br>
-
-`PHP` `Laravel` `Node.js` `Express`
-
-</td>
-
-<td align="center" width="33%">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
-
-<br>
-
-`React` `JavaScript` `HTML` `CSS`
-
-</td>
-
-<td align="center" width="33%">
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift&theme=dark" />
-
-<br>
-
-`Flutter` `Dart` `Swift`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-
-<br>
-
-`PostgreSQL` `MySQL` `MongoDB`
-
-</td>
-
-<td align="center">
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,jenkins,nginx,redis&theme=dark" />
-
-<br>
-
-`Docker` `AWS` `CI/CD`
-
-</td>
-
-<td align="center">
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,apple&theme=dark" />
-
-<br>
-
-`Git` `GitHub` `Linux` `Bash` `macOS`
-
-</td>
-
-</tr>
-</table>
+## `> [Workflow.Contributions]`
 
 <p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+  <img
+    src="https://raw.githubusercontent.com/jort-tec-snt/jort-tec-snt/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+  />
 </p>
 
-## `> [Current.Focus]`
-
-```text
-Backend Engineering
-├── REST API Design
-├── Authentication & Authorization
-├── Database Integration
-├── MVC Architecture
-└── Secure Application Design
-
-Cloud & DevOps
-├── Docker / Docker Compose
-├── CI/CD Pipelines
-├── Nginx
-├── AWS
-└── Deployment Architecture
-
-Software Engineering
-├── Microservices
-├── Automated Testing
-├── Software Architecture
-└── Distributed Systems
-```
+---
 
 <p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
-</p>
-
-## `> [Development.Scope]`
-
-<table>
-<tr>
-<td>
-
-### ⚙️ Backend
-
-REST APIs  
-Authentication  
-Authorization  
-Validation  
-Email Services  
-Notifications  
-
-</td>
-
-<td>
-
-### ☁️ Infrastructure
-
-Docker  
-Nginx  
-Redis  
-CI/CD  
-AWS  
-Health Checks  
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🗄️ Data
-
-PostgreSQL  
-MySQL  
-MongoDB  
-Prisma  
-Mongoose  
-ORM / ODM  
-
-</td>
-
-<td>
-
-### 📱 Mobile
-
-Flutter  
-Dart  
-Swift  
-Responsive UI  
-Navigation  
-Testing  
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
-</p>
-
-## `> [Collaboration]`
-
-Worked on academic and collaborative projects involving:
-
-`Web Applications` · `REST APIs` · `Microservices` · `IoT` · `Cloud` · `Mobile` · `Databases`
-
-<p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
-</p>
-
-## `> [Private.Work]`
-
-Some repositories and implementation details remain private because they are part of ongoing academic and professional work.
-
-Current experience includes:
-
-`B2B E-commerce` · `Backend Architecture` · `Admin Systems` · `Docker` · `CI/CD` · `Cloud Deployment` · `Software Security`
-
-> One ongoing private project is also part of my academic thesis.
-
-<p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
-</p>
-
-## `> [Current.Status]`
-
-```bash
-student@tecsup:~$ whoami
-OrtizDev
-
-student@tecsup:~$ cycle
-5th
-
-student@tecsup:~$ focus
-Backend / Cloud / DevOps
-
-student@tecsup:~$ status
-Learning. Building. Testing. Improving.
-```
-
-<p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+  <code>Learning → Building → Testing → Improving</code>
 </p>
 
 <p align="center">
-  <b>Secure · Maintainable · Scalable · Testable · Deployable</b>
-</p>
-
-<p align="center">
-  <sub>Software Development Student · TECSUP 🇵🇪</sub>
+  <sub>TECSUP · Lima, Peru 🇵🇪</sub>
 </p>
