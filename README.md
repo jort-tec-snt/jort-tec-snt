@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="OrtizDev">
+  <img src="./assets/header-animated.svg" width="100%" alt="OrtizDev">
 </p>
 
 <p align="center">
@@ -18,7 +18,9 @@
   Backend • Cloud • DevOps • Cybersecurity
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="divider">
+</p>
 
 ## `> [Core.Stack]`
 
@@ -30,7 +32,9 @@
   <b>Laravel · Node.js · React · Docker · AWS · PostgreSQL · MongoDB · Flutter</b>
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="divider">
+</p>
 
 ## `> [Focus]`
 
@@ -38,18 +42,32 @@
   Backend Engineering • REST APIs • Cloud Infrastructure • CI/CD • Secure Software
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="divider">
+</p>
 
 ## `> [Workflow.Contributions]`
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/jort-tec-snt/jort-tec-snt/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jort-tec-snt/jort-tec-snt/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jort-tec-snt/jort-tec-snt/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Contribution Snake"
+      src="https://raw.githubusercontent.com/jort-tec-snt/jort-tec-snt/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="divider">
+</p>
 
 <p align="center">
   <code>Learning → Building → Testing → Improving</code>
