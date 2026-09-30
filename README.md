@@ -9,7 +9,7 @@
   />
   <img
     src="https://img.shields.io/github/followers/jort-tec-snt?label=FOLLOWERS&style=flat-square&color=7c3aed"
-    alt="Followers"
+    alt="GitHub Followers"
   />
 </p>
 
@@ -19,34 +19,50 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="divider">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Animated divider">
 </p>
 
 ## `> [Core.Stack]`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,docker,aws,postgres,mysql,mongodb,flutter,git,linux&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring,react,androidstudio,flutter,docker,aws,postgres,mysql,mongodb,git,linux&theme=dark"
+    alt="Technology Stack"
+  />
 </p>
 
 <p align="center">
-  <b>Laravel · Node.js · React · Docker · AWS · PostgreSQL · MongoDB · Flutter</b>
+  <code>Laravel</code> •
+  <code>Node.js</code> •
+  <code>Spring Boot</code> •
+  <code>React</code> •
+  <code>Android Studio</code> •
+  <code>Flutter</code> •
+  <code>Docker</code> •
+  <code>AWS</code> •
+  <code>PostgreSQL</code> •
+  <code>MongoDB</code>
 </p>
 
 <p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="divider">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Animated divider">
 </p>
 
-## `> [Focus]`
+## `> [Current.Focus]`
 
 <p align="center">
-  Backend Engineering • REST APIs • Cloud Infrastructure • CI/CD • Secure Software
+  <code>Backend Engineering</code> •
+  <code>REST APIs</code> •
+  <code>Cloud Infrastructure</code> •
+  <code>CI/CD</code> •
+  <code>Secure Software</code>
 </p>
 
 <p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="divider">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Animated divider">
 </p>
 
-## `> [Workflow.Contributions]`
+## `> [Activity]`
 
 <p align="center">
   <picture>
@@ -59,14 +75,14 @@
       srcset="https://raw.githubusercontent.com/jort-tec-snt/jort-tec-snt/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="Contribution Snake"
       src="https://raw.githubusercontent.com/jort-tec-snt/jort-tec-snt/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
 
 <p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="divider">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Animated divider">
 </p>
 
 <p align="center">
@@ -74,5 +90,5 @@
 </p>
 
 <p align="center">
-  <sub>TECSUP · Lima, Peru 🇵🇪</sub>
+  <sub>Software Development Student · TECSUP · Lima, Peru 🇵🇪</sub>
 </p>
