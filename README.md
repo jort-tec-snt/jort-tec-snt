@@ -1,8 +1,20 @@
-# Hi, I'm OrtizDev 👋
+<h1 align="center">Hi, I'm OrtizDev 👋</h1>
 
-### Software Development Student | Backend • Cloud • DevOps
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=760&lines=Software+Development+Student;Backend+%E2%80%A2+Cloud+%E2%80%A2+DevOps;Learning+Software+Architecture+%26+Cybersecurity;Building+Secure+and+Maintainable+Software"
+    alt="Typing SVG"
+  />
+</p>
 
-I'm a **5th-cycle Software Design and Development student at TECSUP**, based in Lima, Peru.
+---
+
+<p align="center">
+  5th-cycle <b>Software Design and Development</b> student at <b>TECSUP</b><br>
+  Backend development • Cloud infrastructure • DevOps • Cybersecurity
+</p>
+
+---
 
 My main interests are **backend development, cloud infrastructure, DevOps, software architecture and cybersecurity**.
 
