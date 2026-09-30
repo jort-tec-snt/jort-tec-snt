@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080b10"/>
+      <stop offset="55%" stop-color="#0d1420"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="80%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow" x="-30%" y="-300%" width="160%" height="700%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="textGlow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="218" rx="17" fill="none" stroke="#243244" stroke-width="2"/>
+
+  <!-- subtle technical grid -->
+  <g opacity="0.13">
+    <path d="M0 44 H1200 M0 88 H1200 M0 132 H1200 M0 176 H1200" stroke="#00e5ff"/>
+    <path d="M100 0 V220 M220 0 V220 M340 0 V220 M460 0 V220 M580 0 V220 M700 0 V220 M820 0 V220 M940 0 V220 M1060 0 V220" stroke="#7c3aed"/>
+  </g>
+
+  <!-- terminal dots -->
+  <circle cx="80" cy="34" r="5" fill="#00e5ff">
+    <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="98" cy="34" r="5" fill="#7c3aed">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="116" cy="34" r="5" fill="#22c55e">
+    <animate attributeName="opacity" values="1;.55;1" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="80" y="58"
+        font-family="JetBrains Mono, SFMono-Regular, Menlo, Monaco, monospace"
+        font-size="11" fill="#64748b">~/profile</text>
+
+  <!-- main title -->
+  <text x="600" y="92" text-anchor="middle"
+        font-family="JetBrains Mono, SFMono-Regular, Menlo, Monaco, monospace"
+        font-size="54" font-weight="700" fill="#f8fafc">
+    ORTIZDEV
+    <animate attributeName="opacity" values="1;.88;1" dur="4.5s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="600" y="132" text-anchor="middle"
+        font-family="JetBrains Mono, SFMono-Regular, Menlo, Monaco, monospace"
+        font-size="22" font-weight="700" fill="#00e5ff" filter="url(#textGlow)">
+    SOFTWARE DEVELOPMENT STUDENT
+    <animate attributeName="fill" values="#00e5ff;#7c3aed;#00e5ff" dur="6s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="600" y="166" text-anchor="middle"
+        font-family="JetBrains Mono, SFMono-Regular, Menlo, Monaco, monospace"
+        font-size="18" fill="#a7b0c0">
+    Backend • Cloud • DevOps • Cybersecurity
+  </text>
+
+  <!-- animated accent line -->
+  <rect x="170" y="194" width="860" height="2" rx="1" fill="url(#accent)" opacity=".8"/>
+  <rect x="-300" y="191" width="300" height="8" fill="url(#scan)" filter="url(#glow)">
+    <animate attributeName="x" from="-300" to="1200" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- blinking prompt -->
+  <text x="1080" y="198"
+        font-family="JetBrains Mono, SFMono-Regular, Menlo, Monaco, monospace"
+        font-size="14" fill="#00e5ff">&gt;_
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </text>
+</svg>
