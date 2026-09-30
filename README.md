@@ -1,22 +1,29 @@
-<h1 align="center">OrtizDev</h1>
-
 <p align="center">
-  <b>Software Development Student</b><br>
-  Backend • Cloud • DevOps • Cybersecurity
+  <img src="./assets/header.svg" width="100%" alt="OrtizDev Header">
 </p>
 
 <p align="center">
-  5th-cycle <b>Software Design and Development</b> student at <b>TECSUP</b> · Lima, Peru 🇵🇪
+  <img
+    src="https://komarev.com/ghpvc/?username=jort-tec-snt&label=PROFILE%20VIEWS&color=00e5ff&style=flat-square"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/jort-tec-snt?label=FOLLOWERS&style=flat-square&color=7c3aed"
+    alt="Followers"
+  />
 </p>
 
 <p align="center">
-  <img src="./assets/divider-animated.svg" width="100%" alt="divider">
+  <b>5th-cycle Software Design and Development student at TECSUP</b><br>
+  Lima, Peru 🇵🇪
 </p>
 
-## `> [Profile]`
+---
 
-- 🎓 **Education:** Software Design and Development · TECSUP · 5th cycle
-- ⚙️ **Focus:** Backend Development · Cloud · DevOps
+## `> [System.Bio]`
+
+- 🎓 **Education:** TECSUP · Software Design and Development · 5th Cycle
+- ⚙️ **Focus:** Backend · Cloud · DevOps
 - 🔐 **Security:** Secure Software Design · Authentication · Authorization
 - 🧩 **Architecture:** REST APIs · Microservices · Distributed Systems
 - ☁️ **Infrastructure:** Docker · CI/CD · AWS
@@ -24,7 +31,7 @@
 
 ---
 
-## `> [Technology.Stack]`
+## `> [Environment.Stack]`
 
 <table>
 <tr>
@@ -101,7 +108,7 @@
 
 <br>
 
-`Git` `Linux` `Bash` `macOS`
+`Git` `GitHub` `Linux` `Bash` `macOS`
 
 </td>
 
@@ -116,8 +123,8 @@
 Backend Engineering
 ├── REST API Design
 ├── Authentication & Authorization
-├── MVC Architecture
 ├── Database Integration
+├── MVC Architecture
 └── Secure Application Design
 
 Cloud & DevOps
@@ -136,20 +143,33 @@ Software Engineering
 
 ---
 
-## `> [Development.Experience]`
+## `> [Development.Scope]`
 
 <table>
 <tr>
 <td>
 
 ### ⚙️ Backend
-REST APIs · Authentication · Notifications · Email Services · Validation
+
+REST APIs  
+Authentication  
+Authorization  
+Validation  
+Email Services  
+Notifications  
 
 </td>
+
 <td>
 
-### ☁️ Cloud
-Docker · Nginx · Redis · CI/CD · AWS · Health Checks
+### ☁️ Infrastructure
+
+Docker  
+Nginx  
+Redis  
+CI/CD  
+AWS  
+Health Checks  
 
 </td>
 </tr>
@@ -158,13 +178,26 @@ Docker · Nginx · Redis · CI/CD · AWS · Health Checks
 <td>
 
 ### 🗄️ Data
-PostgreSQL · MySQL · MongoDB · Prisma · Mongoose · ORM / ODM
+
+PostgreSQL  
+MySQL  
+MongoDB  
+Prisma  
+Mongoose  
+ORM / ODM  
 
 </td>
+
 <td>
 
 ### 📱 Mobile
-Flutter · Dart · Swift · Responsive UI · Testing
+
+Flutter  
+Dart  
+Swift  
+Responsive UI  
+Navigation  
+Testing  
 
 </td>
 </tr>
@@ -174,7 +207,7 @@ Flutter · Dart · Swift · Responsive UI · Testing
 
 ## `> [Collaboration]`
 
-Experience working on academic and collaborative projects involving:
+Worked on academic and collaborative projects involving:
 
 `Web Applications` · `REST APIs` · `Microservices` · `IoT` · `Cloud` · `Mobile` · `Databases`
 
@@ -198,6 +231,9 @@ Current experience includes:
 student@tecsup:~$ whoami
 OrtizDev
 
+student@tecsup:~$ cycle
+5th
+
 student@tecsup:~$ focus
 Backend / Cloud / DevOps
 
@@ -206,6 +242,10 @@ Learning. Building. Testing. Improving.
 ```
 
 ---
+
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
 <p align="center">
   <b>Secure · Maintainable · Scalable · Testable · Deployable</b>
