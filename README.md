@@ -23,31 +23,43 @@ Throughout my studies and collaborative projects, I've worked with different tec
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 ### Backend
 
-`PHP` · `Laravel` · `Node.js` · `Express.js` · `REST APIs`
+[![Backend](https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark)](https://skillicons.dev)
+
+**PHP · Laravel · Node.js · Express.js · REST APIs**
 
 ### Frontend
 
-`React` · `JavaScript` · `HTML` · `CSS`
+[![Frontend](https://skillicons.dev/icons?i=react,js,html,css&theme=dark)](https://skillicons.dev)
+
+**React · JavaScript · HTML · CSS**
 
 ### Mobile
 
-`Flutter` · `Dart` · `Swift`
+[![Mobile](https://skillicons.dev/icons?i=flutter,dart,swift&theme=dark)](https://skillicons.dev)
+
+**Flutter · Dart · Swift**
 
 ### Databases
 
-`PostgreSQL` · `MySQL` · `MongoDB`
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
+
+**PostgreSQL · MySQL · MongoDB**
 
 ### Cloud & DevOps
 
-`Docker` · `Docker Compose` · `AWS` · `GitHub Actions` · `Jenkins`
+[![Cloud & DevOps](https://skillicons.dev/icons?i=docker,aws,githubactions,jenkins,nginx,redis&theme=dark)](https://skillicons.dev)
 
-### Development Tools
+**Docker · AWS · GitHub Actions · Jenkins · Nginx · Redis**
 
-`Git` · `GitHub` · `Linux` · `Fedora` · `macOS` · `Bash` · `Zsh`
+### Development Tools & Environment
+
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,bash,apple&theme=dark)](https://skillicons.dev)
+
+**Git · GitHub · Linux · Fedora · macOS · Bash · Zsh**
 
 ---
 
