@@ -18,7 +18,9 @@
   Lima, Peru 🇵🇪
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
 ## `> [System.Bio]`
 
@@ -29,7 +31,9 @@
 - ☁️ **Infrastructure:** Docker · CI/CD · AWS
 - 🐧 **Environment:** Fedora Linux · macOS
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
 ## `> [Environment.Stack]`
 
@@ -115,7 +119,9 @@
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
 ## `> [Current.Focus]`
 
@@ -141,7 +147,9 @@ Software Engineering
 └── Distributed Systems
 ```
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
 ## `> [Development.Scope]`
 
@@ -203,7 +211,9 @@ Testing
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
 ## `> [Collaboration]`
 
@@ -211,7 +221,9 @@ Worked on academic and collaborative projects involving:
 
 `Web Applications` · `REST APIs` · `Microservices` · `IoT` · `Cloud` · `Mobile` · `Databases`
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
 ## `> [Private.Work]`
 
@@ -223,7 +235,9 @@ Current experience includes:
 
 > One ongoing private project is also part of my academic thesis.
 
----
+<p align="center">
+  <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
+</p>
 
 ## `> [Current.Status]`
 
@@ -240,8 +254,6 @@ Backend / Cloud / DevOps
 student@tecsup:~$ status
 Learning. Building. Testing. Improving.
 ```
-
----
 
 <p align="center">
   <img src="./assets/divider-animated.svg" width="100%" alt="Cyber divider">
