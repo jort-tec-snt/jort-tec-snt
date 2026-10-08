@@ -1,0 +1,58 @@
+name: Feed the organism
+
+# Rebuilds organism.svg / vitals.svg / feed.svg from your real GitHub data
+# and publishes them to the orphan branch `organism` (the README links there).
+on:
+  schedule:
+    - cron: "17 8 * * *"          # daily, 03:17 Lima time
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "scripts/svgkit.py"
+      - ".github/workflows/organism.yml"
+
+permissions:
+  contents: write                 # push the organism branch
+  actions: write                  # keep the schedule alive (see last step)
+
+concurrency:
+  group: organism
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate SVGs from live data
+        env:
+          # PROFILE_TOKEN (optional PAT with read:user) also counts private contributions.
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python scripts/build_profile.py --out dist
+
+      - name: Publish to the organism branch
+        working-directory: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git init -q -b organism
+          git config user.name  "organism[bot]"
+          git config user.email "organism[bot]@users.noreply.github.com"
+          git add -- *.svg
+          git commit -q -m "chore: feed the organism $(date -u +%F)"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" organism
+
+      - name: Keep the schedule alive
+        if: github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/organism.yml/enable" || true

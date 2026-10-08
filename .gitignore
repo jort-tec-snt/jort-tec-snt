@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+dist/
+
+# Private design tooling (stays on my machine only)
+tools/
