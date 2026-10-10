@@ -8,6 +8,12 @@
 </p>
 
 <p align="center">
+  <a href="https://ortizdev-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-ortizdev-39ff14?style=for-the-badge&labelColor=0a0a0a" alt="OrtizDev portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="./assets/terminal.v1.svg" width="90%" alt="Terminal: whoami — OrtizDev, TECSUP, Lima Peru">
 </p>
 
